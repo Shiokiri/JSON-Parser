@@ -1,0 +1,8 @@
+{
+    "configurations": [
+    { "name":"zhihu" , "url":"www.zhihu.com" }, 
+    { "name":"google" , "url":"www.google.com" }, 
+    { "name":"weibo" , "url":"www.weibo.com" }
+    ]
+    "version" : "1.0"
+}
